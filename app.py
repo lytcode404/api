@@ -1,6 +1,4 @@
-from itertools import product
 from math import isnan, log10
-from unittest import result
 from bs4 import BeautifulSoup
 import os
 import re
